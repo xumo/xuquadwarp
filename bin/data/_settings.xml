@@ -1,0 +1,13 @@
+<controls>
+    <QuadWarp_Warp>
+        <name>Warp</name>
+        <values_0_x>0.000000000</values_0_x>
+        <values_0_y>0.000000000</values_0_y>
+        <values_1_x>320.000000000</values_1_x>
+        <values_1_y>0.000000000</values_1_y>
+        <values_2_x>0.000000000</values_2_x>
+        <values_2_y>0.000000000</values_2_y>
+        <values_3_x>0.000000000</values_3_x>
+        <values_3_y>240.000000000</values_3_y>
+    </QuadWarp_Warp>
+</controls>
